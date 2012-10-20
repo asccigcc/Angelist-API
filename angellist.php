@@ -9,9 +9,9 @@
  * @subpackage    	Libraries
  * @category    	Libraries
  * @subpackage      Api
- * @author        	Pastorinni Ochoa ascci.gcc@gmail.com | pastorinni@menthora.mx
+ * @author        	Pastorinni Ochoa ascci.gcc@gmail.com | @momiaalpastor
  * @license         GNU GLPv3
- * @link	    	http://www.menthora.com/
+ * @link	    	https://github.com/asccigcc
  * @version 0.0.1
  * @todo Need to work more in the funtions
  */
